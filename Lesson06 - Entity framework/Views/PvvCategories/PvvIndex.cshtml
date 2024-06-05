@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Lesson06___Entity_framework.Models.PvvCategory>
+
+@{
+    ViewBag.Title = "PvvIndex";
+}
+
+<h2>PvvIndex</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PvvCategoryName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PvvCategoryName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PvvId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PvvId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PvvId })
+        </td>
+    </tr>
+}
+
+</table>

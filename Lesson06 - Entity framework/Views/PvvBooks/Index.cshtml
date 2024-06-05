@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Lesson06___Entity_framework.Models.PvvBook>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PvvBookId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PvvTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PvvAuthor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PvvYear)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PvvPulisher)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PvvPicture)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PvvCategoryId)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PvvBookId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PvvTitle)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PvvAuthor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PvvYear)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PvvPulisher)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PvvPicture)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PvvCategoryId)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PvvId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PvvId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PvvId })
+        </td>
+    </tr>
+}
+
+</table>
