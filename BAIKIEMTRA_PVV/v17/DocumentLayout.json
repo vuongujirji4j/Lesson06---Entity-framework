@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\exercise\\BaiTapVS\\ls07\\BAIKIEMTRA_PVV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C37E06C-1EB6-4861-9D75-012357257410}|BAIKIEMTRA_PVV\\BAIKIEMTRA_PVV.csproj|c:\\exercise\\baitapvs\\ls07\\baikiemtra_pvv\\baikiemtra_pvv\\controllers\\pvv_sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C37E06C-1EB6-4861-9D75-012357257410}|BAIKIEMTRA_PVV\\BAIKIEMTRA_PVV.csproj|solutionrelative:baikiemtra_pvv\\controllers\\pvv_sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C37E06C-1EB6-4861-9D75-012357257410}|BAIKIEMTRA_PVV\\BAIKIEMTRA_PVV.csproj|c:\\exercise\\baitapvs\\ls07\\baikiemtra_pvv\\baikiemtra_pvv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C37E06C-1EB6-4861-9D75-012357257410}|BAIKIEMTRA_PVV\\BAIKIEMTRA_PVV.csproj|solutionrelative:baikiemtra_pvv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C37E06C-1EB6-4861-9D75-012357257410}|BAIKIEMTRA_PVV\\BAIKIEMTRA_PVV.csproj|c:\\exercise\\baitapvs\\ls07\\baikiemtra_pvv\\baikiemtra_pvv\\models\\model2210900085.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8C37E06C-1EB6-4861-9D75-012357257410}|BAIKIEMTRA_PVV\\BAIKIEMTRA_PVV.csproj|solutionrelative:baikiemtra_pvv\\models\\model2210900085.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\ls07\\BAIKIEMTRA_PVV\\BAIKIEMTRA_PVV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BAIKIEMTRA_PVV\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\ls07\\BAIKIEMTRA_PVV\\BAIKIEMTRA_PVV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BAIKIEMTRA_PVV\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T04:55:25.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pvv_sinhvienController.cs",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\ls07\\BAIKIEMTRA_PVV\\BAIKIEMTRA_PVV\\Controllers\\pvv_sinhvienController.cs",
+              "RelativeDocumentMoniker": "BAIKIEMTRA_PVV\\Controllers\\pvv_sinhvienController.cs",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\ls07\\BAIKIEMTRA_PVV\\BAIKIEMTRA_PVV\\Controllers\\pvv_sinhvienController.cs",
+              "RelativeToolTip": "BAIKIEMTRA_PVV\\Controllers\\pvv_sinhvienController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:55:13.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model2210900085.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\exercise\\BaiTapVS\\ls07\\BAIKIEMTRA_PVV\\BAIKIEMTRA_PVV\\Models\\Model2210900085.edmx",
+              "RelativeDocumentMoniker": "BAIKIEMTRA_PVV\\Models\\Model2210900085.edmx",
+              "ToolTip": "C:\\exercise\\BaiTapVS\\ls07\\BAIKIEMTRA_PVV\\BAIKIEMTRA_PVV\\Models\\Model2210900085.edmx [Diagram1]",
+              "RelativeToolTip": "BAIKIEMTRA_PVV\\Models\\Model2210900085.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-12T04:54:15.157Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
